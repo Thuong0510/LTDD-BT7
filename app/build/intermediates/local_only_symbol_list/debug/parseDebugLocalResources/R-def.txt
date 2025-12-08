@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable btn1
+drawable btn7
+drawable btnnotconnect
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable tb1off
+drawable tb2off
+drawable tb2on
+id btnDisc
+id btnTb1
+id btnTb2
+id btnTimthietbi
+id listTb
+id main
+id textV1
+id textView
+id textView2
+id textViewMAC
+layout activity_control
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.AppBluetooth
+style Theme.AppBluetooth
+xml backup_rules
+xml data_extraction_rules
